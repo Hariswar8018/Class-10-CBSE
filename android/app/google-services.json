@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "725246164980",
+    "firebase_url": "https://communityofstars-default-rtdb.firebaseio.com",
+    "project_id": "communityofstars",
+    "storage_bucket": "communityofstars.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725246164980:android:55ee58eacd9116992043a1",
+        "android_client_info": {
+          "package_name": "com.heavenonthisearth.class11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725246164980-0o2ju0130f8foehfvocmhmee35p05r2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx6U9-6AJ4kFH7VsfodycW8mF9xqpXObw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725246164980-0o2ju0130f8foehfvocmhmee35p05r2q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725246164980-8jknif1uqmnmr0dacekc0oiqg8c14952.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.heavenonthisearth.classCbse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725246164980:android:e485b5436856a0452043a1",
+        "android_client_info": {
+          "package_name": "com.heavenonthisearth.class_cbse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725246164980-0o2ju0130f8foehfvocmhmee35p05r2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx6U9-6AJ4kFH7VsfodycW8mF9xqpXObw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725246164980-0o2ju0130f8foehfvocmhmee35p05r2q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725246164980-8jknif1uqmnmr0dacekc0oiqg8c14952.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.heavenonthisearth.classCbse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
